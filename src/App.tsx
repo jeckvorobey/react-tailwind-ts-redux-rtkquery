@@ -2,7 +2,7 @@ import React from 'react'
 import {Routes, Route} from 'react-router-dom'
 import {HomePage} from './pages/HomePage'
 import {FavouritesPage} from './pages/FavouritesPage'
-import {Nav} from './pages/Nav'
+import {Nav} from './components/Nav'
 
 function App() {
   return (
